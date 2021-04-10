@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="scrollbar-background" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px" viewBox="0 0 12 5" style="enable-background:new 0 0 12 5;" xml:space="preserve">
+<g>
+	
+		<linearGradient id="scrollbar-background_2_" gradientUnits="userSpaceOnUse" x1="-947" y1="370.5" x2="-935" y2="370.5" gradientTransform="matrix(1 0 0 -1 947 373)">
+		<stop  offset="0" style="stop-color:#021B07"/>
+		<stop  offset="0.1913" style="stop-color:#08140B"/>
+		<stop  offset="0.3099" style="stop-color:#0D0D0D"/>
+		<stop  offset="0.6973" style="stop-color:#0D0D0D"/>
+		<stop  offset="0.7678" style="stop-color:#0C170D"/>
+		<stop  offset="0.8732" style="stop-color:#07400C"/>
+		<stop  offset="1" style="stop-color:#054E0C"/>
+	</linearGradient>
+	<rect id="scrollbar-background_1_" style="fill:url(#scrollbar-background_2_);" width="12" height="5"/>
+</g>
+</svg>

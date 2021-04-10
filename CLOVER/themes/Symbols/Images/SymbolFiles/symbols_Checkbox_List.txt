@@ -1,0 +1,4 @@
+checkbox|Checkbox
+checkbox_checked|Checkbox|Tick
+checkbox_night|Checkbox|CheckboxNightOverlay
+checkbox_checked_night|Checkbox|Tick|CheckboxNightOverlay

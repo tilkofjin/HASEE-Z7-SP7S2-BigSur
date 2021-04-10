@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
+<symbol  id="Checkbox" viewBox="-6 -6 12 12">
+	<g id="Checkbox_3_">
+		<linearGradient id="SVGID_1_[MC]" gradientUnits="userSpaceOnUse" x1="-3.5569" y1="3.5571" x2="3.8337" y2="-3.8335">
+			<stop  offset="0" style="stop-color:#006D00"/>
+			<stop  offset="1" style="stop-color:#002D04"/>
+		</linearGradient>
+		<path style="fill:url(#SVGID_1_[MC]);" d="M-2.8-5.6c-1.6,0-2.8,1.3-2.8,2.8v5.5c0,1.6,1.3,2.8,2.8,2.8h5.5c1.6,0,2.8-1.3,2.8-2.8
+			v-5.5c0-1.6-1.3-2.8-2.8-2.8H-2.8z"/>
+		<path style="fill:#141412;" d="M2.8,5.2c1.3,0,2.4-1.1,2.4-2.4v-5.5c0-1.3-1.1-2.4-2.4-2.4h-5.5c-1.3,0-2.4,1.1-2.4,2.4v5.5
+			c0,1.3,1.1,2.4,2.4,2.4H2.8 M2.8,6h-5.5C-4.6,6-6,4.6-6,2.8v-5.5C-6-4.6-4.6-6-2.8-6h5.5C4.6-6,6-4.6,6-2.8v5.5C6,4.6,4.6,6,2.8,6
+			L2.8,6z"/>
+	</g>
+</symbol>
+<symbol  id="CheckboxNightOverlay" viewBox="-6 -6 12 12">
+	<g id="CheckboxNightOverlay_2_" style="opacity:0.5;">
+		<path style="fill:#080063;" d="M-2.8-5.6c-1.6,0-2.8,1.3-2.8,2.8v5.5c0,1.6,1.3,2.8,2.8,2.8h5.5c1.6,0,2.8-1.3,2.8-2.8v-5.5
+			c0-1.6-1.3-2.8-2.8-2.8H-2.8z"/>
+		<path style="fill:#080063;" d="M2.8,5.2c1.3,0,2.4-1.1,2.4-2.4v-5.5c0-1.3-1.1-2.4-2.4-2.4h-5.5c-1.3,0-2.4,1.1-2.4,2.4v5.5
+			c0,1.3,1.1,2.4,2.4,2.4H2.8 M2.8,6h-5.5C-4.6,6-6,4.6-6,2.8v-5.5C-6-4.6-4.6-6-2.8-6h5.5C4.6-6,6-4.6,6-2.8v5.5C6,4.6,4.6,6,2.8,6
+			L2.8,6z"/>
+	</g>
+</symbol>
+<symbol  id="RadioButton" viewBox="-6 -6 12 12">
+	<g id="RadioButton_1_">
+		<linearGradient id="SVGID_2_[MC]" gradientUnits="userSpaceOnUse" x1="-2.9509" y1="2.9509" x2="3.1804" y2="-3.1804">
+			<stop  offset="0" style="stop-color:#006D00"/>
+			<stop  offset="1" style="stop-color:#002D04"/>
+		</linearGradient>
+		<circle style="fill:url(#SVGID_2_[MC]);" cx="0" cy="0" r="5.6"/>
+		<path style="fill:#141412;" d="M0,5.2c2.9,0,5.2-2.3,5.2-5.2c0-2.9-2.3-5.2-5.2-5.2c-2.9,0-5.2,2.3-5.2,5.2
+			C-5.2,2.9-2.9,5.2,0,5.2 M0,6L0,6c-3.3,0-6-2.7-6-6v0c0-3.3,2.7-6,6-6h0c3.3,0,6,2.7,6,6v0C6,3.3,3.3,6,0,6L0,6z"/>
+	</g>
+</symbol>
+<symbol  id="RadioButtonNightOverlay" viewBox="-6 -6 12 12">
+	<g id="RadioButtonNightOverlay_1_" style="opacity:0.5;">
+		<circle style="fill:#080063;" cx="0" cy="0" r="5.6"/>
+		<path style="fill:#080063;" d="M0,5.2c2.9,0,5.2-2.3,5.2-5.2c0-2.9-2.3-5.2-5.2-5.2c-2.9,0-5.2,2.3-5.2,5.2
+			C-5.2,2.9-2.9,5.2,0,5.2 M0,6L0,6c-3.3,0-6-2.7-6-6v0c0-3.3,2.7-6,6-6h0c3.3,0,6,2.7,6,6v0C6,3.3,3.3,6,0,6L0,6z"/>
+	</g>
+</symbol>
+<symbol  id="RadioButtonSelected" viewBox="-6 -6 12 12">
+	<g id="RadioButtonSelected_1_">
+		<linearGradient id="SVGID_3_[MC]" gradientUnits="userSpaceOnUse" x1="-2.9509" y1="2.9509" x2="3.1804" y2="-3.1804">
+			<stop  offset="0" style="stop-color:#5DC900"/>
+			<stop  offset="1" style="stop-color:#183B00"/>
+		</linearGradient>
+		<circle style="fill:url(#SVGID_3_[MC]);" cx="0" cy="0" r="5.6"/>
+		<path style="fill:#141412;" d="M0,5.2c2.9,0,5.2-2.3,5.2-5.2c0-2.9-2.3-5.2-5.2-5.2c-2.9,0-5.2,2.3-5.2,5.2
+			C-5.2,2.9-2.9,5.2,0,5.2 M0,6L0,6c-3.3,0-6-2.7-6-6v0c0-3.3,2.7-6,6-6h0c3.3,0,6,2.7,6,6v0C6,3.3,3.3,6,0,6L0,6z"/>
+	</g>
+</symbol>
+<symbol  id="Tick" viewBox="-4 -3.7 8 7.3">
+	<path id="Tick_1_" style="fill:#00FF00;" d="M2.9,3.5C1,2.2-1.9-0.9-2.3-1.8c0-0.1-0.2,1.6-0.6,1.9C-3.3,0.4-4.2-0.3-4-1.2
+		c0.1-0.6,0.6-2.8,1.5-2.5c1,0.4,3.6,4.5,6.3,6.6C4.5,3.5,3.5,3.9,2.9,3.5z"/>
+</symbol>
+<g id="Checkbox_Items">
+	<use xlink:href="#Checkbox"  width="12" height="12" x="-6" y="-6" transform="matrix(1 0 0 -1 8 8)" style="overflow:visible;"/>
+	
+		<use xlink:href="#Tick"  width="8" height="7.3" x="-4" y="-3.7" transform="matrix(1 0 0 -1 8.2894 7.8734)" style="overflow:visible;"/>
+	
+		<use xlink:href="#CheckboxNightOverlay"  width="12" height="12" x="-6" y="-6" transform="matrix(1 0 0 -1 8 8)" style="overflow:visible;"/>
+</g>
+<g id="RadioButton_Items">
+	
+		<use xlink:href="#RadioButton"  width="12" height="12" x="-6" y="-6" transform="matrix(1 0 0 -1 8 8)" style="overflow:visible;"/>
+	
+		<use xlink:href="#RadioButtonSelected"  width="12" height="12" x="-6" y="-6" transform="matrix(1 0 0 -1 8 8)" style="overflow:visible;"/>
+	
+		<use xlink:href="#RadioButtonNightOverlay"  width="12" height="12" x="-6" y="-6" transform="matrix(1 0 0 -1 8 8)" style="overflow:visible;"/>
+</g>
+</svg>

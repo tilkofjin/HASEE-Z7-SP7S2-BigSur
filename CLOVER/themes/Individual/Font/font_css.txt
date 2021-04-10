@@ -1,0 +1,6 @@
+  .FontColour{fill:#008400;}
+  .FontColourNight{fill:#7696D7;}
+  .FontName{font-family:PTMono-Regular_Latin+Cyrillic;}
+  .FontSizeMenu{font-size:15px;}
+  .FontSizeMenuTitle{font-size:18px;}
+  .FontSizeMessageRow{font-size:22px;}

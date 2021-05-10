@@ -1,6 +1,6 @@
 # blackMac
 balckMac EFI files for Z7-sp7s2
-
+use Clover 5131
 
 ## Mac Catalina EFI
 
